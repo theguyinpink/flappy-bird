@@ -5,7 +5,7 @@ const ctx = canvas.getContext("2d");
 const gameContainer = document.getElementById('game-container');
 
 const flappyImg = new Image();
-flappyImg.src = 'assets/flappy_dunk.png';
+flappyImg.src = 'Assets/flappy_dunk.png';
 
 //Game constants
 const FLAP_SPEED = -5;
